@@ -1,6 +1,8 @@
 # Teoría de arquetipos
 ## Una teoría de conjuntos con conjunto universal y sin paradoja de Russell
 
+© 2023 - 2023 Otakar Molnár López - Todos los derechos reservados.
+
 Introducción
 
 Todo lo que se habla a continuación es en el contexto de la teoría, es decir, si la teoría fuera algo que se corresponde a la realidad. En ningún momento esta teoría es impuesta como algo real o como algo ficticio. Tampoco se pretende que sea del agrado ni desagradable al lector. Mas sí forma parte de una búsqueda personal de la verdad por parte del autor. El autor cree firmemente que las contradicciones no existen como algo real. El autor cree firmemente en la existencia de un conjunto universal.
