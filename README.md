@@ -86,3 +86,7 @@ C: El conjunto de todos los arquetipos, o metaconjunto de arquetipo, se contiene
 C: El conjunto de todas las cosas, conjunto universal, o todo, se contiene a sí mismo y es su propio arquetipo.
 
 CT: El todo, el metaconjunto arquetipo y el metaconjunto son lo mismo. Al ser todos los elementos arquetipos, todos los elementos son conjuntos, por lo que agrupar a todos los conjuntos es lo mismo que agrupar a todos los elementos, y también es lo mismo que agrupar a todos los arquetipos. Por lo tanto, el metaconjunto, el metaconjunto arquetipo y el todo son lo mismo.
+
+
+
+1Co 15, 27-28
