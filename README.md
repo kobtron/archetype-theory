@@ -1,7 +1,7 @@
 # Teoría de arquetipos
 ## Una teoría de conjuntos con conjunto universal y sin paradoja de Russell
 
-© 2023 - 2023 Otakar Molnár López - Todos los derechos reservados.
+© 2023 Otakar Molnár López - Todos los derechos reservados.
 
 Introducción
 
