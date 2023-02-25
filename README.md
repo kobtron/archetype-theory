@@ -94,15 +94,17 @@ C: El conjunto de todos los arquetipos, o metaconjunto de arquetipo, se contiene
 
 C: El conjunto de todas las cosas, conjunto universal, o todo, se contiene a sí mismo y es su propio arquetipo.
 
-CT: El todo, el metaconjunto arquetipo y el metaconjunto son el mismo conjunto porque agrupan a los mismos elementos. Al ser todos los elementos arquetipos, todos los elementos son conjuntos, por lo que agrupar a todos los conjuntos es lo mismo que agrupar a todos los elementos, y también es lo mismo que agrupar a todos los arquetipos. Por lo tanto, el metaconjunto, el metaconjunto arquetipo y el todo son el mismo conjunto.
+C: El todo, el metaconjunto arquetipo y el metaconjunto son el mismo conjunto porque agrupan a los mismos elementos. Al ser todos los elementos arquetipos, todos los elementos son conjuntos, por lo que agrupar a todos los conjuntos es lo mismo que agrupar a todos los elementos, y también es lo mismo que agrupar a todos los arquetipos. Por lo tanto, el metaconjunto, el metaconjunto arquetipo y el todo son el mismo conjunto.
 
 Conjunto de eternidad
 
-Ahora hablemos de el conjunto de los elementos que son eternos, o conjunto de eternidad. Todos los elementos en este conjunto son igual de antiguos, y por lo tanto, todos son arquetipos según la propiedad de ser eternos. Es decir, todos los elementos eternos comparten el ser como conjunto de eternidad.
+Ahora hablemos del conjunto de los elementos que son eternos, o conjunto de eternidad. Todos los elementos en este conjunto son igual de antiguos, y por lo tanto, todos son arquetipos según la propiedad de ser eternos. Es decir, todos los elementos eternos comparten el ser como conjunto de eternidad.
 
-A: El conjunto de eternidad es eterno. *** Revisar si puede ser teorema ***
+T: El conjunto de eternidad es eterno. Al contener elementos con la antigüedad máxima, es decir, eternos, el conjunto en sí mismo debe ser eterno.
 
-Las cosas siempre forman parte de un todo, es decir, siempre forman parte del el conjunto universal, por lo que el conjunto universal debe tener la antiguedad máxima, es decir, es eterno, o lo que es lo mismo, pertenece al conjunto de eternidad. Si pertenece al conjunto de eternidad entonces es un arquetipo del conjunto de eternidad, por lo que es, al mismo tiempo, el conjunto de eternidad.
+Las cosas siempre forman parte de un todo, es decir, pertenecen al conjunto universal, por lo que el conjunto universal debe tener la antiguedad máxima, es decir, ser eterno, o lo que es lo mismo, pertenecer al conjunto de eternidad. Si pertenece al conjunto de eternidad entonces es un arquetipo del conjunto de eternidad, por lo que es, al mismo tiempo, el conjunto de eternidad.
+
+Entonces, el todo es eterno, lo eterno forma parte del todo, y el todo y lo eterno comparten el ser.
 
 
 
