@@ -106,7 +106,7 @@ T: El conjunto de eternidad es eterno. Al contener elementos con la antigüedad 
 
 Las cosas siempre forman parte de un todo, es decir, pertenecen al conjunto universal, por lo que el conjunto universal debe tener la antiguedad máxima, es decir, ser eterno, o lo que es lo mismo, pertenecer al conjunto de eternidad. Si pertenece al conjunto de eternidad entonces es un arquetipo del conjunto de eternidad, por lo que es, al mismo tiempo, el conjunto de eternidad.
 
-Recordemos que en la eternidad, al igual que en un instante de tiempo, no hay un antes ni un después, por lo que no hay problema si dos conjuntos se contienen el uno al otro, siempre y cuando haya consistencia en las relaciones que tienen entre sí.
+Recordemos que en lo que es eterno no hay cambios temporales, por lo que no hay problema si dos conjuntos eternos se contienen el uno al otro, siempre y cuando haya consistencia en las relaciones que tienen entre sí.
 
 Entonces, el todo es eterno, lo eterno forma parte del todo, y el todo y lo eterno comparten el ser.
 
