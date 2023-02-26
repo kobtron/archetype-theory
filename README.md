@@ -55,7 +55,7 @@ Este gato más antiguo o estos átomos más antiguos, que son al mismo tiempo su
 
 D: Un arquetipo es el elemento o uno de los elementos más antiguos de un conjunto que es el mismo conjunto.
 
-En este sentido podríamos preguntar, "¿El conjunto de todos los gatos es contenido por el conjunto de todos los gatos?" Y la respuesta sería "Sí, porque el conjunto de todos los gatos es también un gato".
+En este sentido podríamos preguntar, "¿El conjunto de todos los gatos es contenido por el conjunto de todos los gatos?" Y la respuesta sería "Sí, porque el conjunto de todos los gatos es también un gato". Se contiene a sí mismo por ser gato, no por ser conjunto o por cualquier otra cosa, pero sea como sea, se contiene a sí mismo.
 
 Cuando aparece un nuevo tipo de elemento en el universo, este elemento arquetipo, es su propio conjunto, es decir, aparece como elemento y como conjunto en lo que a su tipo se refiere. Los elementos del mismo tipo que aparecen posteriormente empiezan a formar parte del conjunto, sin ser arquetipos en lo que al tipo se refiere. Si el arquetipo o arquetipos desaparecen, el siguiente elemento o elementos más antiguos pasan a ser los arquetipos, es decir, el ser conjunto del tipo es transferido al siguiente elemento o elementos más antiguos.
 
