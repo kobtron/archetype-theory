@@ -103,7 +103,7 @@ Ahora hablemos del conjunto de los elementos que son eternos, o conjunto de eter
 
 T: El conjunto de eternidad es eterno. Al contener elementos con la antigüedad máxima, es decir, eternos, el conjunto en sí mismo debe ser eterno.
 
-Las cosas siempre forman parte de un todo, es decir, pertenecen al conjunto universal, por lo que el conjunto universal debe tener la antiguedad máxima, es decir, ser eterno, y por lo tanto, pertenecer al conjunto de eternidad. Si pertenece al conjunto de eternidad entonces es un arquetipo del conjunto de eternidad, por lo que es, al mismo tiempo, el conjunto de eternidad. Entonces, el todo y el 3 son elementos diferentes, pero como conjunto del todo son el mismo.
+Las cosas siempre forman parte de un todo, es decir, pertenecen al conjunto universal, por lo que el conjunto universal debe tener la antiguedad máxima, es decir, ser eterno, y por lo tanto, pertenecer al conjunto de eternidad. Si pertenece al conjunto de eternidad entonces es un arquetipo del conjunto de eternidad, por lo que es, al mismo tiempo, el conjunto de eternidad. Entonces, el todo y el 3 son elementos diferentes, pero como conjunto de eternidad son el mismo.
 
 Recordemos que la naturaleza de lo que es eterno no sufre cambios temporales. Por ejemplo, en el caso del todo, aunque su contenido puede sufrir cambios temporales cada que un elemento empieza o deja de existir, su naturaleza de contenerlo todo no cambia.
 
