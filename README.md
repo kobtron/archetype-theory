@@ -48,7 +48,6 @@ A: Los elementos pueden dejar de ser, o empezar a ser, un conjunto.
 Por otro lado, por más raro que parezca, podemos creer que uno de los gatos es al mismo tiempo el conjunto de todos los gatos. No hay un porqué ni un cómo contiene a todos los gatos, como en la caja, pero tampoco parece haber contradicción.
 
 En esta teoria, el gato más antiguo es al mismo tiempo el conjunto de todos los gatos. Y suponiendo que hay muchos átomos que son los más antiguos y que tienen la misma antigüedad, estos son al mismo tiempo el conjunto de todos los átomos, que agrupa a los átomos de cualquier antigüedad. Al igual que Don Quijote, estos átomos más antiguos, como conjunto, son uno, es decir, comparten el ser, pero como átomos, son muchos diferentes.
-*** Revisar si conviene que de los elementos más antiguos, un subconjunto arbitrario sean los arquetipos ***
 
 A: El elemento o elementos más antiguos de un conjunto son el mismo conjunto.
 
